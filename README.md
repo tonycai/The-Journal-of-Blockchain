@@ -26,8 +26,9 @@
 
 ## 区块链白皮书
 
-下载包体即可
-待续
+- [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
+- [EOS White Paper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md)
+
 <br/>
 ## 常用必备
 
