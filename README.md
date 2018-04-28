@@ -4,7 +4,7 @@
 
 
 <p align="center">
-    <img src="./logo.jpeg"
+    <img src="./eos_2018-04-28.jpg"
          height="130">
 </p>
 <p align="center">
