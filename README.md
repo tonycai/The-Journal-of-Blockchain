@@ -143,6 +143,7 @@
 |[45区](https://mp.weixin.qq.com/s/C5cnthAx6XV0m-oSbuShrA)|-|-|
 |[币虎：靠谱项目带投](http://mp.weixin.qq.com/s/HD6-TgJo3ejquZUbO0EzZg )|-|-|
 |[王团长区块链日记：真实的投资日记](https://mp.weixin.qq.com/s/YT4yQFu9Y0Vx-s_tHWvixA )|-|-|
+|[EthFans](https://github.com/EthFans/wiki/wiki )|-|-|
 
 <br/>
 
