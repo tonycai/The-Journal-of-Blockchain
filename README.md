@@ -214,6 +214,24 @@
 |-|[2017年你为什么错过比特币？](https://mp.weixin.qq.com/s?__biz=MzIyNDk1NzU4OA==&amp;mid=2247484665&amp;idx=1&amp;sn=c0e3a0a9b72315065920f9aeeb4c144d&amp;chksm=e8064102df71c8148fc42b200e8b30276d0df8803bd1e3a18330bda3a13c46445aa8663b9d88&amp;mpshare=1&amp;scene=1&amp;srcid=1214THPGs7RcH0Q3VIqX4sMr#rd)|
 <br/>
 
+## IPFS和Filecoin
+- filecoin官方的代币符号是 FIL。
+- 代币发行方是 协议实验室 Protocol Labs
+- ipfs 官网： ipfs.io
+- filecoin 官网： filecoin.io
+- ipfs唯一官方论坛： http://t.cn/RRGmxZD
+- IM交流： http://t.cn/h0ECv  IRC #ipfs #filecoin
+- 代码的官方地址： http://t.cn/RHjWMPn
+- filecoin最新的 blog地址： http://t.cn/RRGmxZF
+- IPFS 的twitter账户： IPFSbot ‏
+- Filecoin的twitter账户： MineFilecoin ‏
+- 创始人 的twitter： juanbenet ‏
+- 协议实验室的官网地址： http://t.cn/RQUDUST
+- 协议实验室是 IPFS和filecoin的创世公司，也是他们进行的filecoin ICO
+- ICO网站： http://t.cn/RosV6Ey
+- ICO地址：http://t.cn/RRGmxZk
+- 创始人的个人网站地址： http://t.cn/RRGmxw5
+
 ## Tips
 
 如果你有更多信息请发给我
