@@ -219,18 +219,18 @@
 - 代币发行方是 协议实验室 Protocol Labs
 - ipfs 官网： ipfs.io
 - filecoin 官网： filecoin.io
-- ipfs唯一官方论坛： http://t.cn/RRGmxZD
-- IM交流： http://t.cn/h0ECv  IRC #ipfs #filecoin
-- 代码的官方地址： http://t.cn/RHjWMPn
-- filecoin最新的 blog地址： http://t.cn/RRGmxZF
+- ipfs唯一官方论坛： https://discuss.ipfs.io
+- IM交流： http://webchat.freenode.net  IRC #ipfs #filecoin
+- 代码的官方地址： https://github.com/ipfs
+- filecoin最新的 blog地址： https://filecoin.io/blog/
 - IPFS 的twitter账户： IPFSbot ‏
 - Filecoin的twitter账户： MineFilecoin ‏
 - 创始人 的twitter： juanbenet ‏
-- 协议实验室的官网地址： http://t.cn/RQUDUST
+- 协议实验室的官网地址： https://protocol.ai
 - 协议实验室是 IPFS和filecoin的创世公司，也是他们进行的filecoin ICO
-- ICO网站： http://t.cn/RosV6Ey
-- ICO地址：http://t.cn/RRGmxZk
-- 创始人的个人网站地址： http://t.cn/RRGmxw5
+- ICO网站：https://coinlist.co
+- ICO地址：https://coinlist.co/filecoin
+- 创始人的个人网站地址： http://juan.benet.ai
 
 ## Tips
 
