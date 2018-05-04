@@ -239,6 +239,13 @@
 - ICO地址：https://coinlist.co/filecoin
 - 创始人的个人网站地址： http://juan.benet.ai
 
+## 去中心化的存储解决方案
+
+<p align="center">
+    <img src="./images/去中心化的存储解决方案.jpeg"
+         width="620">
+</p>
+
 ## Tips
 
 如果你有更多信息请发给我
