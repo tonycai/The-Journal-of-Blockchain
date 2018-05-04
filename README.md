@@ -261,6 +261,10 @@
 - 激励机制
 - 数据存储
 - 隐私保护
+<p align="center">
+    <img src="./images/区块链-架构实践.png"
+         width="620">
+</p>
 ## Tips
 
 如果你有更多信息请发给我
