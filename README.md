@@ -64,6 +64,13 @@
 |[CoinEgg：聚币国际版](https://www.coinegg.com/)|-|-|
 <br/>
 
+## 币圈大佬扑克牌
+
+<p align="center">
+    <img src="./images/币圈大佬扑克牌.jpeg"
+         width="620">
+</p>
+
 ## 媒体资讯：识媒体，看币圈
 
 |媒体|微博|订阅号|
