@@ -268,10 +268,12 @@
     <img src="./images/区块链-架构实践.png"
          width="620">
 </p>
+
 ## 编译安装矿机 
 
 - [How to install bitcoin on ubuntu 16.4](https://github.com/tonycai/The-Journal-of-Blockchain/wiki/How-to-install-bitcoin-on-ubuntu-16.4)
 - [How to install Ethereum on ubuntu 16.04](https://github.com/tonycai/The-Journal-of-Blockchain/wiki/How-to-install-Ethereum-on-ubuntu-16.04)
+
 ## Tips
 
 如果你有更多信息请发给我
