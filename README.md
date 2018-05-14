@@ -278,6 +278,8 @@
 一个叫Skirmantas Januškas的立陶宛青年，注册了dappradar.com这个域名，半个月后建立了第一个DApp的导航站。
 - https://dappradar.com/
 
+## 医疗+区块链
+1) 目前，Google、IBM等科技巨头都在探索区块链技术的医疗应用，同时也有Factom、BitHealth、BlockVerify、DNA.Bits、Bitfury等区块链技术公司参与其中。反观国内，(2018)今年3月27日，AI医疗公司医拍智能宣布All in区块链，阿里健康与常州市合作了医联体+区块链试点项目，众享比特、边界智能等区块链技术创业公司也在布局相关项目。
 ## Tips
 
 如果你有更多信息请发给我
