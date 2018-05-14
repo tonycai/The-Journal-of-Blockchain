@@ -31,6 +31,7 @@
 - [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
 - [EOS White Paper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md)
 - [Cosmos White Paper](https://github.com/cosmos/cosmos/blob/master/WHITEPAPER.md)
+- [Quorum White Paper](https://github.com/jpmorganchase/quorum)
 
 <br/>
 
