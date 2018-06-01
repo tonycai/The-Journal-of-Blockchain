@@ -292,6 +292,6 @@
 如果你有更多信息请发给我
 邮箱：tonytasks@gmail.com
 
-## Donation
+## Donate
 - BTC: 1FEsXsJLQAQJtAikoVDHPxrr782GL5XUiY
 - ETH: 0xc6D2D592c7cE1f0059CEF6e9D445A9581B8b17F3
