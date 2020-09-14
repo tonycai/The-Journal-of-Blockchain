@@ -296,6 +296,6 @@ code is law.
 如果你有更多信息请发给我
 邮箱：tonytasks@gmail.com
 
-## Donate
-- BTC: 1FEsXsJLQAQJtAikoVDHPxrr782GL5XUiY
-- ETH: 0xc6D2D592c7cE1f0059CEF6e9D445A9581B8b17F3
+## Donation
+- BTC: 1FrpJXUQDrtEQRGFBf7Ag1LsvjaUfZJqVA
+- ETH: 0xB8198455c0F69DD7C7454cf68a6C36C569a913d5
